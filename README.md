@@ -14,8 +14,8 @@ BOOSTRAP özelliklerinden faydalanıldı.
 Opsiyonel kullanılabilecek bait anlaşılabilir bilişim sitesi.
 
 # Ekran Görüntüsü
+![Kayt2024-09-24003825-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f9305260-238f-48d0-8357-86d2fd46c0f4)
 
 
-Uploading Kayıt 2024-09-24 003825.mp4…
 
 
