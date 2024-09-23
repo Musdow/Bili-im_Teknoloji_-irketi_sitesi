@@ -1,4 +1,4 @@
-# Bili-im_Teknoloji_-irketi_sitesi
+# Bilisim_Teknoloji_sirketi_sitesi
 
 
 # Harici Kullanımlar
