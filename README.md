@@ -1,5 +1,9 @@
 # Bilisim_Teknoloji_sirketi_sitesi
 
+Yeni bitirdiğim bilişim sitesine göz atmak istermisin
+
+Kendim yaptığım bu sitede çoklu sayfa ve kullanıcıya hitap edebilecek içerikleri daha opsiyonel kullanmayı amaçladım.
+
 
 # Harici Kullanımlar
 
